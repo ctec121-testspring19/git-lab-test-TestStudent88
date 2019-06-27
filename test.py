@@ -3,6 +3,8 @@
 # TestStudent88
 
 def main():
-    print("Hello World!")
+    # lab: inserted text in original message
+    print("Hello there World!")
+    print("print added during lab")
 
 main()
