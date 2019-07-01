@@ -8,5 +8,6 @@ def main():
     print("Hello there World!")
     print("print added during lab")
     print()
+    print("Test Student 6485 says hello")
 
 main()
